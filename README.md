@@ -39,3 +39,6 @@ helps restaurants manage their orders, menu items, and staff with accuracy and e
 project can be adjusted as needed, with tables, features, and rules being added or removed
 with ease. This flexible design provides a practical and economical solution for managing
 restaurant operations and increasing customer happiness and income.
+
+![image](https://github.com/user-attachments/assets/e1f547db-6f4c-43f5-aa82-29e352c251ec)
+
